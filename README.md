@@ -3,7 +3,9 @@
 @date: 2024.03.04
 ```
 
-
+<video width="300" height="240" controls>
+    <source src="test.mp4" type="video/mp4">
+</video>
 
 A novel agent architecture to facilitate the emergence of social norms within a generative agent society
 
